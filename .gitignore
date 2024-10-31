@@ -1,0 +1,7 @@
+vendor
+
+**.json
+**.log
+**.zip
+test**
+ddt.php
